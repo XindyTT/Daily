@@ -1,2 +1,2 @@
-# Daily
-record what you learn everyday
+#goagent的使用方法
+现在不知道如何插入一个图片
